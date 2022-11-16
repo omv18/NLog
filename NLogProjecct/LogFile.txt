@@ -1,0 +1,5 @@
+﻿2022-11-08 09:17:59.8901|DEBUG|NLogProjecct.NLog|Debug Succesfull : Sum()
+2022-11-08 09:17:59.9084|ERROR|NLogProjecct.NLog|expecting null values
+2022-11-08 09:17:59.9084|WARN|NLogProjecct.NLog|Second or secondNumber should not equal to 0
+2022-11-08 09:17:59.9084|DEBUG|NLogProjecct.NLog|Debug Successfully : Sum()
+2022-11-08 09:17:59.9084|INFO|NLogProjecct.NLog|Sum Method passed , Result 2
